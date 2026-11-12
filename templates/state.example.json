@@ -1,0 +1,22 @@
+{
+  "brief_revision": 1,
+  "confirmed_revision": null,
+  "brief": {
+    "company": "",
+    "business": "",
+    "customers": "",
+    "user_role": "",
+    "strategy_scope": "",
+    "audience": "",
+    "decision": "",
+    "problem": "",
+    "desired_outcome": "",
+    "horizon": "",
+    "constraints": "",
+    "tradeoffs": "",
+    "non_goals": ""
+  },
+  "evidence": [],
+  "gaps": [],
+  "contradictions": []
+}
