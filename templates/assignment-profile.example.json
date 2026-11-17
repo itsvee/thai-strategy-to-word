@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "assignment": {
+    "title": "",
+    "course": "",
+    "level": "",
+    "deadline": "",
+    "language": "th",
+    "genre": "academic_strategy_report",
+    "audience": "",
+    "required_questions": [],
+    "required_sections": [],
+    "required_frameworks": [],
+    "conditional_frameworks": [],
+    "format_rules": {
+      "narrative_mode": "",
+      "question_headings_allowed": false,
+      "citation_style": "",
+      "target_length": ""
+    },
+    "deliverables": ["html"],
+    "unknowns": []
+  },
+  "review_feedback": {
+    "source": "",
+    "preserve": [],
+    "required_changes": [],
+    "target_audience_change": null,
+    "genre_change": null,
+    "narrative_axes": [],
+    "framework_changes": [],
+    "output_changes": []
+  }
+}

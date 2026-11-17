@@ -1,0 +1,18 @@
+{
+  "assignment_id": "",
+  "status": "draft",
+  "items": [
+    {
+      "id": "Q1",
+      "requirement": "",
+      "required": true,
+      "report_location": "",
+      "answer": "",
+      "evidence_ids": [],
+      "framework": "",
+      "decision_effect": "",
+      "limitation": "",
+      "status": "blocked"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source_report": "",
+  "outputs": {
+    "html": "report.html",
+    "coverage_html": "coverage.html",
+    "evidence_html": "evidence.html",
+    "feedback_html": null,
+    "word": null
+  },
+  "word_requested": false,
+  "word_settings": {
+    "font": "TH Sarabun New",
+    "size_pt": 16,
+    "paper": "A4",
+    "page_numbers": false
+  }
+}
